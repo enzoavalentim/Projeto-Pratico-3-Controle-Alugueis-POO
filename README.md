@@ -108,9 +108,14 @@ Execução da Opção Escolhida:
 - Tela de Aluguel de Equipamentos
   A tela de aluguel de equipamentos permite que os usuários registrem novas transações de aluguel de maneira rápida e eficiente. O processo envolve a seleção do cliente, a escolha do equipamento, e a definição das datas de início e término do aluguel. O sistema calcula automaticamente o valor total do aluguel, exibindo todas as informações de forma clara antes de concluir a transação. A interface foi projetada para minimizar o tempo necessário para completar um aluguel e garantir que todos os detalhes estejam corretos.
 
-- 
+- Tela de Consulta de Locações
+  Esta tela oferece uma funcionalidade de pesquisa avançada, permitindo que os usuários consultem os aluguéis atuais e passados de um cliente específico. Os resultados podem ser filtrados por datas, tipo de equipamento, ou cliente, facilitando a busca por informações específicas. A interface exibe os resultados de forma organizada, com opções para visualizar detalhes ou gerar relatórios adicionais.
 
+- Tela de Devolução de Equipamentos
+  A tela de devolução de equipamentos é onde os usuários registram a devolução de itens alugados. Nessa tela, o usuário pode buscar pelo aluguel em questão, confirmar a devolução, e atualizar o status do equipamento no sistema. A interface foi desenhada para ser clara e objetiva, assegurando que o processo de devolução seja rápido e sem erros.
 
+- Tela da Central de Relatórios
+  A central de relatórios é a tela onde os usuários podem gerar relatórios detalhados sobre as atividades de aluguel. A interface permite a exportação dos relatórios em formato de PDF.
 
 # Desenvolvimento e Investimento de Horas
 
