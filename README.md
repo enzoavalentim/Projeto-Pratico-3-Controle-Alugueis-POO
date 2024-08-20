@@ -32,7 +32,7 @@ Central de Relatórios: Dentro da central de relatórios, você pode escolher en
 - Lista de alugueis por cliente: Exibe a lista de aluguéis realizados por um cliente específico.
 
 - Relatório mensal e faturamento: Calcula e exibe o faturamento total mensal.
-- 
+  
 
 # Para o usuário
 No menu principal, onde são exibidas as seguintes opções:
