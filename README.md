@@ -93,6 +93,9 @@ Execução da Opção Escolhida:
   
 # Interface
 
+Essa interface gráfica foi desenvolvida para simplificar e otimizar o processo de gerenciamento de aluguéis de equipamentos, tornando-o mais acessível e eficiente para os usuários da empresa.
+
+
 - Tela De Login
   
   A tela de login é a primeira interface que os usuários encontram ao acessar o sistema. Ela garante a segurança do sistema, exigindo que os usuários insiram suas credenciais (nome de usuário e senha) para acessar as funcionalidades, garantindo que apenas usuários autorizados possam acessar o sistema.
@@ -135,3 +138,8 @@ Durante o desenvolvimento do software, foram investidas 36 horas distribuídas e
 - Testes e Correções:   04h
 - Documentação e Entrega:   02h
 - Total:   24h
+
+# Conclusão
+
+Este software modernizado foi projetado para melhorar a eficiência da gestão de aluguéis de equipamentos, facilitando o uso através de uma interface gráfica intuitiva e assegurando a precisão nas operações realizadas. O total de horas investidas será utilizado para calcular o valor a ser pago pelo desenvolvimento, conforme acordado com a empresa.
+
