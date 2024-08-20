@@ -137,7 +137,7 @@ Durante o desenvolvimento do software, foram investidas 36 horas distribuídas e
 - Implementação das Funcionalidades:   12h
 - Testes e Correções:   04h
 - Documentação e Entrega:   02h
-- Total:   24h
+- Total:   36h
 
 # Conclusão
 
