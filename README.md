@@ -95,9 +95,9 @@ Execução da Opção Escolhida:
 
 Durante o desenvolvimento do software, foram investidas 24 horas distribuídas entre diferentes etapas do projeto. A refatoração do Projeto 01 consumiu 4 horas, focando na melhoria do código existente e na preparação para as novas implementações. O planejamento e design da interface gráfica demandaram outras 6 horas, garantindo que a solução proposta fosse intuitiva e alinhada com as necessidades do usuário final. A implementação das funcionalidades, que incluiu a adaptação das operações anteriores para a nova interface e a adição de novas capacidades, foi a etapa mais extensa, com 8 horas de trabalho. Os testes e correções foram realizados em 4 horas, assegurando a qualidade e o bom funcionamento do sistema. Finalmente, 2 horas foram dedicadas à documentação e entrega do projeto, consolidando todas as informações necessárias para o uso e manutenção do software.
 
-- Refatoração do Projeto 01: 04h
-- Planejamento e Design da Interface: 06h
-- Implementação das Funcionalidades: 08h
-- Testes e Correções: 04h
-- Documentação e Entrega: 02h
-Total: 24h
+- Refatoração do Projeto 01:    04h
+- Planejamento e Design da Interface:   06h
+- Implementação das Funcionalidades:   08h
+- Testes e Correções:   04h
+- Documentação e Entrega:   02h
+Total:   24h
