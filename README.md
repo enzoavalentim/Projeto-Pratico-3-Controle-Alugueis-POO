@@ -5,8 +5,10 @@ Controle de Aluguéis de Equipamentos
 Uma empresa que fornece uma ampla variedade de equipamentos para construção civil, como escavadeiras, betoneiras e andaimes, deseja modernizar seu sistema de controle de aluguéis. Para isso, eles contrataram seus serviços com o objetivo de desenvolver um sistema em Java que permita gerenciar de forma eficiente o aluguel desses equipamentos. Além disso, a empresa solicitou a criação de uma interface gráfica intuitiva para melhorar a usabilidade e a eficácia do software, facilitando a operação do sistema por parte dos usuários.
 
 # Documentação do Código
-Este é um sistema desenvolvido em Java para gerenciar o aluguel de equipamentos. Ele permite cadastrar clientes, cadastrar produtos, realizar aluguéis, devoluções e acessar relatórios. 
+Este é um sistema desenvolvido em Java para gerenciar o aluguel de equipamentos. Ele permite cadastrar clientes, cadastrar produtos, realizar aluguéis, devoluções e acessar relatórios.
+
 Execução: Execute o programa e siga as instruções fornecidas no console.
+
 Menu Principal: O sistema apresenta um menu principal com as seguintes opções:
 
 - Cadastar Cliente: Permite cadastrar um novo cliente.
@@ -30,9 +32,11 @@ Central de Relatórios: Dentro da central de relatórios, você pode escolher en
 - Lista de alugueis por cliente: Exibe a lista de aluguéis realizados por um cliente específico.
 
 - Relatório mensal e faturamento: Calcula e exibe o faturamento total mensal.
+- 
 
 # Para o usuário
 No menu principal, onde são exibidas as seguintes opções:
+
 - Cadastrar Cliente
   
 - Cadastrar Produto
@@ -44,6 +48,7 @@ No menu principal, onde são exibidas as seguintes opções:
 - Central de relatórios
 
 Escolha da Opção: O usuário escolhe uma das opções digitando o número correspondente e pressionando Enter.
+
 Execução da Opção Escolhida:
 
 - Cadastrar Cliente (Opção 1): O usuário fornece o nome do cliente a ser cadastrado e o sistema gera um ID único para ele.
@@ -85,3 +90,14 @@ Execução da Opção Escolhida:
 - Relatório Mensal e Faturamento (Opção 5): O sistema exibe na tela um relatório do faturamento total mensal, mostrando detalhes como nome do equipamento locado, ID do equipamento, valor do aluguel, nome do locatário, ID do locatário, data de locação e data de devolução. Além disso, exibe o faturamento total acumulado no período.
 
 - Sair (Opção 6): Encerra a execução da Central de Relatórios e retorna ao menu principal.
+
+# Desenvolvimento e Investimento de Horas
+
+Durante o desenvolvimento do software, foram investidas 24 horas distribuídas entre diferentes etapas do projeto. A refatoração do Projeto 01 consumiu 4 horas, focando na melhoria do código existente e na preparação para as novas implementações. O planejamento e design da interface gráfica demandaram outras 6 horas, garantindo que a solução proposta fosse intuitiva e alinhada com as necessidades do usuário final. A implementação das funcionalidades, que incluiu a adaptação das operações anteriores para a nova interface e a adição de novas capacidades, foi a etapa mais extensa, com 8 horas de trabalho. Os testes e correções foram realizados em 4 horas, assegurando a qualidade e o bom funcionamento do sistema. Finalmente, 2 horas foram dedicadas à documentação e entrega do projeto, consolidando todas as informações necessárias para o uso e manutenção do software.
+
+- Refatoração do Projeto 01: 04h
+- Planejamento e Design da Interface: 06h
+- Implementação das Funcionalidades: 08h
+- Testes e Correções: 04h
+- Documentação e Entrega: 02h
+Total: 24h
