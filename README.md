@@ -143,3 +143,11 @@ Durante o desenvolvimento do software, foram investidas 36 horas distribuídas e
 
 Este software modernizado foi projetado para melhorar a eficiência da gestão de aluguéis de equipamentos, facilitando o uso através de uma interface gráfica intuitiva e assegurando a precisão nas operações realizadas. O total de horas investidas será utilizado para calcular o valor a ser pago pelo desenvolvimento, conforme acordado com a empresa.
 
+# Alunos
+
+- Enzo Augusto Valentim
+
+- Renan Alves Tavares
+
+# Docente Orientador
+Johnatan Alves de Oliveira
