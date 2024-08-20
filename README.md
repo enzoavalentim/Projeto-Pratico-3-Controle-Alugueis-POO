@@ -1,5 +1,5 @@
 # Nome do Projeto
-Controle de Aluguéis de Equipamentos
+Controle de Aluguéis de Equipamentos com Interface
 
 # Situação Problema
 Uma empresa que fornece uma ampla variedade de equipamentos para construção civil, como escavadeiras, betoneiras e andaimes, deseja modernizar seu sistema de controle de aluguéis. Para isso, eles contrataram seus serviços com o objetivo de desenvolver um sistema em Java que permita gerenciar de forma eficiente o aluguel desses equipamentos. Além disso, a empresa solicitou a criação de uma interface gráfica intuitiva para melhorar a usabilidade e a eficácia do software, facilitando a operação do sistema por parte dos usuários.
