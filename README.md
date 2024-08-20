@@ -11,7 +11,7 @@ Execução: Execute o programa e siga as instruções fornecidas no console.
 
 Menu Principal: O sistema apresenta um menu principal com as seguintes opções:
 
-- Cadastar Cliente: Permite cadastrar um novo cliente.
+- Cadastrar Cliente: Permite cadastrar um novo cliente.
 
 - Cadastrar Produto: Permite cadastrar um novo produto.
 
