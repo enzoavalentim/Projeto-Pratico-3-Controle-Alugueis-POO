@@ -34,7 +34,7 @@ Central de Relatórios: Dentro da central de relatórios, você pode escolher en
 - Relatório mensal e faturamento: Calcula e exibe o faturamento total mensal.
   
 
-# Para o usuário
+# Para o usuário (sem interface)
 No menu principal, onde são exibidas as seguintes opções:
 
 - Cadastrar Cliente
