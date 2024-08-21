@@ -32,8 +32,8 @@ Central de Relatórios: Dentro da central de relatórios, você pode escolher en
 - Lista de alugueis por cliente: Exibe a lista de aluguéis realizados por um cliente específico.
 
 - Relatório mensal e faturamento: Calcula e exibe o faturamento total mensal.
-  
 
+  
 # Para o usuário (sem interface)
 No menu principal, onde são exibidas as seguintes opções:
 
@@ -127,6 +127,18 @@ Essa interface gráfica foi desenvolvida para simplificar e otimizar o processo 
 - Tela da Central de Relatórios
   
   A central de relatórios é a tela onde os usuários podem gerar relatórios detalhados sobre as atividades de aluguel. A interface permite a exportação dos relatórios em formato de PDF.
+  
+ # Para Iniciar o Programa:
+
+ - Clicar na tela loginFrame com o botão direito e clicar run file com o botão esquerdo
+
+# Administradores Cadastrados:
+- login: enzo
+  senha: 1234
+- login: renan
+  senha: 5678
+- login: 
+  senha: 
 
 # Desenvolvimento e Investimento de Horas
 
