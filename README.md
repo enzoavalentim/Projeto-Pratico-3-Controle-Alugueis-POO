@@ -137,8 +137,8 @@ Essa interface gráfica foi desenvolvida para simplificar e otimizar o processo 
   senha: 1234
 - login: renan
   senha: 5678
-- login: 
-  senha: 
+- login: johnatan
+  senha: 4321
 
 # Desenvolvimento e Investimento de Horas
 
